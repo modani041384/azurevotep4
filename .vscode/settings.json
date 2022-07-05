@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/045922f9-3a45-4b36-aca1-78867d35c366/microsoft.web/sites/subscriptions/045922f9-3a45-4b36-aca1-78867d35c366/resourceGroups/resource-group-west/providers/Microsoft.Web/sites/vote2022",
+    "appService.deploySubpath": "azure-vote"
+}
